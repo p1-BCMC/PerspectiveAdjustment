@@ -2,8 +2,8 @@
 // @name         Perspective Adjustment
 // @namespace    p1
 // @run-at       document-start
-// @version      0.1
-// @description  Adjusts the size of the player depending on how close/far they are in a room.
+// @version      0.2
+// @description  Adding perspective to Box Critters! Adjusts the size of all players depending on how far away they are in a room.
 // @author       p1
 // @match        https://boxcritters.com/play/
 // @match        https://boxcritters.com/play/?*

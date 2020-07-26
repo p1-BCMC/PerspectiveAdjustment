@@ -2,7 +2,9 @@
 // @name         Perspective Adjustment
 // @namespace    p1
 // @run-at       document-start
-// @version      0.2
+// @version      0.3
+// @updateURL    https://github.com/p1-BCMC/PerspectiveAdjustment/raw/master/PerspectiveAdjustment.user.js
+// @downloadURL  https://github.com/p1-BCMC/PerspectiveAdjustment/raw/master/PerspectiveAdjustment.user.js
 // @description  Adding perspective to Box Critters! Adjusts the size of all players depending on how far away they are in a room.
 // @author       p1
 // @match        https://boxcritters.com/play/
